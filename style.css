@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #f4f4f4;
+}
+header{
+    background-color: rgb(44, 44, 44);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+h1{
+    font-size: 36px;
+    margin: 0px;
+    padding: 0px;
+}
+.genre{
+    margin: 20px;
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+.genreH2{
+    font-size: 24px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.genreOption{
+    font-size: 13px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
+.course{
+    margin: 20px;
+    margin-top: 40px;
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: white;
+    width: 45%;
+    border-radius: 5px;
+}
+.courseImage{
+    text-align: center;
+}
+img{
+    border-radius: 5px;
+    height: 400px;
+}
+.addToCart{
+    background-color: #f05a28;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.addToCart:hover{
+    background-color: #b84924;
+}
+footer{
+    text-align: center;
+    background-color: rgb(44,44,44);
+    color: white;
+    padding: 10px;
+}
