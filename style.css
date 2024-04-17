@@ -49,6 +49,7 @@ h1{
 img{
     border-radius: 5px;
     height: 400px;
+    max-width: 100%;
 }
 .addToCart{
     background-color: #f05a28;
